@@ -1,7 +1,9 @@
 """
 Hello world!
 
-My name is Serena and I like ice cream.
-
 Change this line!
 """
+def foo():
+    print('Hello world!')
+
+foo()
